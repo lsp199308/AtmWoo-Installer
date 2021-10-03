@@ -17,7 +17,7 @@ A NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
    - Blawar, Hunterweb, DarkMatterCore
 # Applet Mode Alert
 
--This app alert when is opened in Applet mode.
+- This app alert when is opened in Applet mode.
     
 # Building AtmWoo-Installer
 
